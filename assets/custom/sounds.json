@@ -1,0 +1,101 @@
+{
+    "custom.other.laser_1":{
+        "category": "player",
+        "subtitle": "雷射聲",
+        "sounds": [
+            {
+            "name": "custom:custom/other/laser_1",
+            "stream": true,
+            "volume": 0.6
+            }
+        ]
+    },
+    "custom.songs.roc_tw.national_song":{
+        "category": "master",
+        "subtitle": "正在播放 中華民國國歌",
+        "sounds": [
+            {
+            "name": "custom:custom/songs/roc_tw/national_song",
+            "stream": true,
+            "volume": 1.0
+            }
+        ]
+    },
+    "custom.songs.roc_tw.national_flag_song":{
+        "category": "master",
+        "subtitle": "正在播放 中華民國國旗歌",
+        "sounds": [
+            {
+            "name": "custom:custom/songs/roc_tw/national_flag_song",
+            "stream": true,
+            "volume": 1.0
+            }
+        ]
+    },
+    "custom.other.responsibility_louder":{
+        "category": "voice",
+        "subtitle": "還不都你的錯，你最好負起責任來喔",
+        "sounds": [
+            {
+            "name": "custom:custom/other/responsibility_louder",
+            "stream": true,
+            "volume": 1.0
+            }
+        ]
+    },
+    "custom.other.ak47_1_shot":{
+        "category": "player",
+        "subtitle": "AK47 射擊聲",
+        "sounds": [
+            {
+            "name": "custom:custom/other/ak47_1_shot",
+            "stream": true,
+            "volume": 0.8
+            }
+        ]
+    },
+    "custom.other.you_piece_of_shit":{
+        "category": "voice",
+        "subtitle": "爛透了！",
+        "sounds": [
+            {
+            "name": "custom:custom/other/you_piece_of_shit",
+            "stream": true,
+            "volume": 1.0
+            }
+        ]
+    },
+    "custom.songs.jp.maou_bgm_piano39":{
+        "category": "record",
+        "subtitle": "正在播放 魔王魂 ピアノ39",
+        "sounds": [
+            {
+            "name": "custom:custom/songs/jp/maou_bgm_piano39",
+            "stream": true,
+            "volume": 1.0
+            }
+        ]
+    },
+    "custom.other.the_emperor_arrives":{
+        "category": "voice",
+        "subtitle": "皇上駕到",
+        "sounds": [
+            {
+            "name": "custom:custom/other/the_emperor_arrives",
+            "stream": true,
+            "volume": 1.0
+            }
+        ]
+    },
+    "custom.other.long_live_the_emperor":{
+        "category": "voice",
+        "subtitle": "吾皇萬歲萬歲萬萬歲",
+        "sounds": [
+            {
+            "name": "custom:custom/other/long_live_the_emperor",
+            "stream": true,
+            "volume": 1.0
+            }
+        ]
+    }
+}

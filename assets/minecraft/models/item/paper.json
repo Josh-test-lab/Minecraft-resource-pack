@@ -1,0 +1,27 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/paper"
+  },
+  "overrides": [
+  { "predicate": {"custom_model_data": 1}, "model": "item/custom/mask"},
+  { "predicate": {"custom_model_data": 2}, "model": "item/custom/cash_1000"},
+  { "predicate": {"custom_model_data": 3}, "model": "item/custom/flags/roc_tw/tw_flag_normal"},
+  { "predicate": {"custom_model_data": 4}, "model": "item/custom/rainbow_cat"},
+  { "predicate": {"custom_model_data": 5}, "model": "item/custom/loading"},
+  { "predicate": {"custom_model_data": 6}, "model": "item/custom/angel_halo/yellow/angel_halo_yellow"},
+  { "predicate": {"custom_model_data": 7}, "model": "item/custom/angel_halo/black/angel_halo_black"},
+  { "predicate": {"custom_model_data": 8}, "model": "item/custom/screct/screct_normal"},
+  { "predicate": {"custom_model_data": 9}, "model": "item/custom/cards/card_0"},
+  { "predicate": {"custom_model_data": 10}, "model": "item/custom/glasses_1"},
+  { "predicate": {"custom_model_data": 11}, "model": "item/custom/princess_crown_1"},
+  { "predicate": {"custom_model_data": 12}, "model": "item/custom/princess_crown_2"},
+  { "predicate": {"custom_model_data": 13}, "model": "item/custom/flags/roc_tw/tw_flag_normal_flagpole"},
+  { "predicate": {"custom_model_data": 14}, "model": "item/custom/cards/card_1_id_0"},
+  { "predicate": {"custom_model_data": 15}, "model": "item/custom/cards/card_2_id_1"},
+  { "predicate": {"custom_model_data": 16}, "model": "item/custom/cards/card_3"},
+  { "predicate": {"custom_model_data": 17}, "model": "item/custom/flags/roc_tw/tw_flag_normal_flagpole_gif"},
+  { "predicate": {"custom_model_data": 18}, "model": "item/custom/flags/roc_tw/tw_flag_normal_vertical_gif"},
+  { "predicate": {"custom_model_data": 19}, "model": "item/custom/magic/magic_scroll"}
+ ]
+}

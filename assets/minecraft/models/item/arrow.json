@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/arrow"
+  },
+  "overrides": [
+  { "predicate": {"custom_model_data": 1}, "model": "item/custom/arrows/tnt_arrow"},
+  { "predicate": {"custom_model_data": 2}, "model": "item/custom/arrows/lightning_arrow"},
+  { "predicate": {"custom_model_data": 3}, "model": "item/custom/arrows/fireball_arrow"},
+  { "predicate": {"custom_model_data": 4}, "model": "item/custom/arrows/rain_of_arrows_arrow"},
+  { "predicate": {"custom_model_data": 5}, "model": "item/custom/arrows/end_crystal_arrow"},
+  { "predicate": {"custom_model_data": 6}, "model": "item/custom/arrows/creeper_arrow"},
+  { "predicate": {"custom_model_data": 7}, "model": "item/custom/arrows/anvil_arrow"},
+  { "predicate": {"custom_model_data": 8}, "model": "item/custom/arrows/cobweb_tnt_trap_arrow"},
+  { "predicate": {"custom_model_data": 9}, "model": "item/custom/arrows/fire_arrow"}
+ ]
+}

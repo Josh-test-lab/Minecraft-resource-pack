@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/handheld_rod",
+  "textures": {
+    "layer0": "minecraft:item/carrot_on_a_stick"
+  },
+  "overrides": [
+  { "predicate": { "custom_model_data": 1}, "model": "item/custom/ak47_1"},
+  { "predicate": { "custom_model_data": 2}, "model": "item/custom/bullets/762mm"},
+  { "predicate": { "custom_model_data": 3}, "model": "item/custom/bullets/magazine_ak47_1"},
+  { "predicate": { "custom_model_data": 4}, "model": "item/custom/loudspeaker_1"},
+  { "predicate": { "custom_model_data": 5}, "model": "item/custom/rocket_launcher_1"}
+ ]
+}
